@@ -1,0 +1,7 @@
+{
+    "name": "local/training-registration",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
